@@ -1,5 +1,6 @@
 {
 "name":"qiuhaitao/ceshi",
+"type": "library",
    "require": {
         "php": ">=5.3.0"
     },
