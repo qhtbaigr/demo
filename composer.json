@@ -2,7 +2,7 @@
 "name":"qiuhaitao/ceshi",
    "require": {
         "php": ">=5.3.0",
-      "qiuhaitao/ceshi":"dev-master"
+      "qiuhaitao/ceshi":"master"
     },
     "autoload": {
         "files": ["src/demo.php"],
