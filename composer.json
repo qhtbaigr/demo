@@ -2,6 +2,6 @@
 "name":"qiuhaitao/ceshi",
    "require": {
         "php": ">=5.3.0",
-      "qiuhaitao/ceshi":" dev-master"
+        "qiuhaitao/ceshi":" dev-master"
     },
 }
